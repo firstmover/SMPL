@@ -1,7 +1,8 @@
-import smpl_tf
-import smpl_np
 import numpy as np
 import tensorflow as tf
+
+import smpl_np
+import smpl_tf
 
 
 def compute_diff(a, b):
